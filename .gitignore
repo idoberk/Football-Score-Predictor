@@ -219,6 +219,7 @@ typings/
 .claude
 .kiro
 CLAUDE.md
+*.md
 
 # Archive files (don't commit zips)
 *.zip
