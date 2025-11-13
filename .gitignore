@@ -59,6 +59,8 @@ coverage/
 test-results/
 junit.xml
 *.spec.js.snap
+tests/
+setup.py
 
 # ==================================
 # OS FILES
